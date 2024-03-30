@@ -4,12 +4,11 @@
 - 🌱 I’m currently learning React 
 - - 📫 How to reach me: 3144216129@qq.com 
 
-<img src="[https://github.com/aa0330/aa0330/assets/108854192/c1d595f8-d05b-4b52-ae09-fcb71e9a36d4](https://img2.imgtp.com/2024/03/30/3stRnhEi.png)" width = 100 height = 100>   
-![js](https://github.com/aa0330/aa0330/assets/108854192/c1d595f8-d05b-4b52-ae09-fcb71e9a36d4)   
-![css3](https://github.com/aa0330/aa0330/assets/108854192/0ac91304-1eac-43ea-895b-cd0f381de5ef)
+![js](https://github.com/aa0330/aa0330/assets/108854192/c1d595f8-d05b-4b52-ae09-fcb71e9a36d4 =100x100)    
+![css3](https://github.com/aa0330/aa0330/assets/108854192/0ac91304-1eac-43ea-895b-cd0f381de5ef) 
 ![h5](https://github.com/aa0330/aa0330/assets/108854192/802bd5d8-a266-45cb-89aa-9fd31d8dac8f)
 ![ts](https://github.com/aa0330/aa0330/assets/108854192/479c1729-9910-4a8a-9d17-3d23aaabb47f) 
-![vue](https://github.com/aa0330/aa0330/assets/108854192/ff4db5f1-0fd0-4877-9b1c-94e8ce9f76ca) 
+![vue](https://github.com/aa0330/aa0330/assets/108854192/ff4db5f1-0fd0-4877-9b1c-94e8ce9f76ca)  
 ![pinia](https://github.com/aa0330/aa0330/assets/108854192/f71214a4-298a-485f-87f4-3e26f55296e0)
 ![vite](https://github.com/aa0330/aa0330/assets/108854192/efc95fed-72c8-41f7-9a01-3f42df253276) 
 
