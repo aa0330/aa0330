@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React 
 - - 📫 How to reach me: 3144216129@qq.com
 
-<img src="](https://github.com/aa0330/aa0330/assets/108854192/c1d595f8-d05b-4b52-ae09-fcb71e9a36d4" width = 300 height = 200> 
+<img src="https://github.com/aa0330/aa0330/assets/108854192/c1d595f8-d05b-4b52-ae09-fcb71e9a36d4" width = 300 height = 200>  
 ![js](https://github.com/aa0330/aa0330/assets/108854192/c1d595f8-d05b-4b52-ae09-fcb71e9a36d4)  
 ![css3](https://github.com/aa0330/aa0330/assets/108854192/0ac91304-1eac-43ea-895b-cd0f381de5ef)
 ![h5](https://github.com/aa0330/aa0330/assets/108854192/802bd5d8-a266-45cb-89aa-9fd31d8dac8f)
