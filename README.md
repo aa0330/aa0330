@@ -2,11 +2,11 @@
 
 - ⚡ JavaScript.
 - 🌱 I’m currently learning React 
-- - 📫 How to reach me: 3144216129@qq.com 
+- 📫 How to reach me: 3144216129@qq.com  
 
 
 <!--
-**aa0330/aa0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aa0330/aa0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started: 
 
