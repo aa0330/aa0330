@@ -2,9 +2,10 @@
 
 
 
-![215976334-7d534173-5070-476b-8521-ef943e1a86b4](https://github.com/aa0330/aa0330/assets/108854192/6567d120-1a2f-4475-bca1-d45db795b7df) 
+ 
 
 <!--
+![215976334-7d534173-5070-476b-8521-ef943e1a86b4](https://github.com/aa0330/aa0330/assets/108854192/6567d120-1a2f-4475-bca1-d45db795b7df) 
 - ⚡ JavaScript.
 - 🌱 I’m currently learning React 
 - 📫 How to reach me: 3144216129@qq.com    
