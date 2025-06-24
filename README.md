@@ -13,7 +13,6 @@
 <img src="https://github.com/aa0330/aa0330/assets/108854192/bef3e95a-26cc-4db4-af85-c5dce871c727" width="100px">      
 <img src="https://github.com/aa0330/aa0330/assets/108854192/6bf45d98-4784-45bb-a862-d1dfe2601427" width="100px">      
 <img src="https://github.com/aa0330/aa0330/assets/108854192/0e25b99d-cbf2-402b-995b-59798235a205)" width="100px">       
-
 <br>
 <br>
 
@@ -29,21 +28,5 @@
  
 其他社交:
 -->
-
-
-<!--
 ![215976334-7d534173-5070-476b-8521-ef943e1a86b4](https://github.com/aa0330/aa0330/assets/108854192/6567d120-1a2f-4475-bca1-d45db795b7df)  
 世间万物，风云变幻，苍黄翻覆，纵使波谲云诡，但制心一处，便无事不办，天定胜人，人定兮胜天！
-- ⚡ JavaScript.
-- 🌱 I’m currently learning React  
-- 📫 How to reach me: 3144216129@qq.com    
-
-- 🔭 I’m currently working on ...  
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ...   
-- 🤔 I’m looking for help with ...   
-- 💬 Ask me about ...  
-- 📫 How to reach me: ...  
-- 😄 Pronouns: ...  
-- ⚡ Fun fact: ...  
--->
